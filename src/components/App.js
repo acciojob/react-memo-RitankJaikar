@@ -37,7 +37,7 @@ const App = () => {
     <div className="app">
       <h1>Task Manager</h1>
       <div>
-        <button onClick={addTodo}>Add todo</button>
+        <button onClick={addTodo}>Add Todo</button>
         <button onClick={incrementCounter}>Increment</button>
       </div>
       <div>
